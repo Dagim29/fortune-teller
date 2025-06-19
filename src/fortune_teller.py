@@ -20,7 +20,7 @@ def generate_fortune():
         f"💡 At exactly {time_str}, a brilliant idea will strike!",
         f"🌈 {actor}, your code is about to make the world more colorful!",
         f"🦸‍♂️ Your coding superpowers will awaken during this {event} event!",
-        f"🍀 Luck is on your side today, {actor}! Merge with confidence!"
+        f"🍀 Luck is on your side today, {actor}! Merge with confidence!!"
     ]
     
     return random.choice(fortunes)
